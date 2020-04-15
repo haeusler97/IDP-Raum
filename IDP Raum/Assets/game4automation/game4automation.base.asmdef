@@ -1,0 +1,15 @@
+{
+    "name": "game4automation.base",
+    "references": [
+        "game4automation.spacenavigator",
+        "game4automation.tools.naughtyattributes"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
